@@ -1,1 +1,1 @@
-set name martin-more -> martin-more-mirror. email -> mirror
+test

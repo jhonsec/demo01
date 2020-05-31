@@ -1,1 +1,1 @@
-set odersky username
+set name martin-more -> martin-more-mirror. Keep email
